@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Converted from IPYNB to PY
-"""
-
 # %% [markdown] Cell 1
 # # Smart Fashion Recommendation Engine
 # **Author:** CHITRABHANU HAZRA 
